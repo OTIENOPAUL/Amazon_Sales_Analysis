@@ -118,8 +118,8 @@ Scatter plot showing the relationship between Discounts, Profit, and Product cat
 Data Analyst | Power BI Developer
 
 ### 🌐 Let’s Connect
-* [LinkedIn](ADD_YOUR_LINK_HERE)
-* [Portfolio](ADD_YOUR_WEBSITE_HERE)
+* [LinkedIn](www.linkedin.com/in/otieno-p)
+* [Portfolio](https://otienopaul.github.io/)
 
 ---
 
